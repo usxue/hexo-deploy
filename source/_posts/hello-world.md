@@ -37,3 +37,7 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+### 部署在Cloudflare Pages中
+
+More info : [Cloudflare](https://www.cloudflare.com)
